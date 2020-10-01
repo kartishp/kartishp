@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NodeJS, Typescript,AWS**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React, NextJS**
 
 - 📫 How to reach me **pitale.kartish@gmail.com**
 
